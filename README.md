@@ -1,5 +1,5 @@
 # RestSharp-Specflow-Framework
-This repository contains API automation framework.
+This repository contains API automation framework. Framework is developed using Behaviour driven development (BDD) and Data driven delevelopment. Data is stored using excel files.
 
 Tools and services I used:
 1. Microsoft Visual Studio
