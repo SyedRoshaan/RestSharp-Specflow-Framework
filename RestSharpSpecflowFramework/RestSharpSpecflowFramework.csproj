@@ -7,13 +7,13 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<PackageReference Include="ExtentReports" Version="4.1.0" />
 		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="7.0.3" />
 		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
 		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.5.0" />
 		<PackageReference Include="NUnit" Version="3.13.3" />
 		<PackageReference Include="RestSharp" Version="108.0.3" />
 		<PackageReference Include="SpecFlow" Version="3.9.74" />
-		<PackageReference Include="SpecFlow.Allure" Version="3.5.0.73" />
 		<PackageReference Include="SpecFlow.ExternalData" Version="3.9.74" />
 		<PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="3.9.57" />
 		<PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
